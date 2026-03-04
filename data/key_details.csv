@@ -1,0 +1,13 @@
+section,detail_key,detail_value
+General,Name,Vincenzo Grimaldi
+General,Matriculation Number,353970
+Thesis,Title,"Data Modeling in a Cross-domain Ontology for Cyber Intelligence in Smart-Grids Using Reinforcement Learning"
+Thesis,"Supervisor","Charles Emehel, M. Sc."
+Thesis,"Examiner","Univ.-Prof. Antonello Monti, Ph. D."
+Thesis,Date,"June 03, 2025"
+Keywords,Keyword 1,Smart-grid security
+Keywords,Keyword 2,Ontology integration
+Keywords,Keyword 3,CIM
+Keywords,Keyword 4,ThreMA
+Keywords,Keyword 5,Anomaly detection
+Keywords,Keyword 6,Machine learning
