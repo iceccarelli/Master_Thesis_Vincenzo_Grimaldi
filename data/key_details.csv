@@ -1,13 +1,52 @@
 section,detail_key,detail_value
-General,Name,Vincenzo Grimaldi
+General,Author,Vincenzo Grimaldi
 General,Matriculation Number,353970
-Thesis,Title,"Data Modeling in a Cross-domain Ontology for Cyber Intelligence in Smart-Grids Using Reinforcement Learning"
-Thesis,"Supervisor","Charles Emehel, M. Sc."
-Thesis,"Examiner","Univ.-Prof. Antonello Monti, Ph. D."
-Thesis,Date,"June 03, 2025"
-Keywords,Keyword 1,Smart-grid security
-Keywords,Keyword 2,Ontology integration
-Keywords,Keyword 3,CIM
-Keywords,Keyword 4,ThreMA
-Keywords,Keyword 5,Anomaly detection
-Keywords,Keyword 6,Machine learning
+General,University,RWTH Aachen University
+General,Faculty,Faculty of Electrical Engineering and Information Technology
+General,Institute,Institute for Automation of Complex Power Systems
+General,Submission Date,June 03 2025
+General,Location,Frankfurt am Main
+Thesis,Title (English),Data Modeling in a Cross-domain Ontology for Cyber Intelligence in Smart-Grids Using Reinforcement Learning
+Thesis,Supervisor,Charles Emehel, M. Sc.
+Thesis,Prüfer,Univ.-Prof. Antonello Monti, Ph. D.
+Thesis,Main Objective,Develop a systematic integration methodology linking the Common Information Model (CIM) with the ThreMA cybersecurity framework to create unified semantic representations that connect physical power components with security concepts for improved anomaly detection and cyber-physical threat response in Smart-Grids
+Thesis,Core Methodology,Passive data collection from grid assets → Ontology engineering with Protégé (CIM + ThreMA + SAREF/SARGON mappings) → Feature engineering → Reinforcement Learning (Q-Learning) for adaptive security response → Validation on enhanced IEEE 9-Bus test system with realistic attack scenarios
+Thesis,Validation System,Enhanced IEEE 9-Bus test system incorporating realistic network infrastructure and documented cyber-physical attack scenarios
+Chapters,Chapter 1 Title,Introduction – Context, Motivation, Ontologies (CIM & Cybersecurity Frameworks), SAREF/SARGON, Research Contributions, Thesis Structure
+Chapters,Chapter 1 Page,1
+Chapters,Chapter 2 Title,Literature Review – CIM in Power Systems, CIM Ontology, ThreMA Ontology, Cross-Domain Integration Efforts, Data Model for Grid-Cyber Interoperability
+Chapters,Chapter 2 Page,6
+Chapters,Chapter 3 Title,Methodology – Systematic Cross-Domain Ontology Development, Structured Data Representation, Ontology Engineering, Semantic Mapping, Toolchain, Reinforcement Learning Framework, Unified Grid-Cyber Common Data Model
+Chapters,Chapter 3 Page,21
+Chapters,Chapter 4 Title,Results – Experimental Validation Framework, Cyber-Physical Attack Scenarios, Ontology-Aware Regression, AI Modeling, Reinforcement Learning Response, System Metrics, Grid-Cyber Common Data Model Evaluation
+Chapters,Chapter 4 Page,50
+Chapters,Chapter 5 Title,Conclusion – Summary of Findings, Limitations, Implications for High-Voltage Engineering, Directions for Future Research
+Chapters,Chapter 5 Page,82
+Key_Facts,Validation Benchmark,Enhanced IEEE 9-Bus test system with realistic network structures and documented attack scenarios
+Key_Facts,Core Standards,IEC 61970/61968 (CIM), ThreMA cybersecurity framework, SAREF, SARGON
+Key_Facts,AI Integration,Polynomial regression + Neural networks + Q-Learning for anomaly detection and adaptive security response
+Key_Facts,Key Technologies,Protégé for ontology modeling, RDF/XML & JSON serialization, Reinforcement Learning framework
+Technologies,Main Ontology Framework,Cross-domain ontology integrating CIM (power system) and ThreMA (cybersecurity)
+Technologies,Modeling Tool,Protégé
+Technologies,Query & Serialization,RDF/XML, JSON, OWL
+Technologies,AI Components,Reinforcement Learning (Q-Learning), Neural Networks, Ontology-Driven Feature Engineering
+Technologies,Grid Model,IEEE 9-Bus enhanced with cyber components (firewalls, SCADA servers, communication links)
+Contributions,Primary Contribution,Integrated Cross-Domain Ontology Framework unifying CIM and ThreMA for cyber-physical Smart-Grid security
+Contributions,Secondary Contribution,Systematic Cross-Domain Mapping Methodology with reusable semantic bridge patterns
+Contributions,Third Contribution,Application and Validation on Cyber-Physical IEEE 9-Bus Benchmark with realistic attack scenarios
+Contributions,Fourth Contribution,Synergistic Integration with Reinforcement Learning for adaptive security response and anomaly detection
+Contributions,Fifth Contribution,Evaluation Framework showing improved performance over conventional security approaches
+Threats,Primary Focus,Advanced Persistent Threats and complex cyber-physical attacks on Smart-Grids
+Threats,Threat Examples,Brute-force attacks, Denial-of-Service, Man-in-the-Middle, Ransomware patterns (CAPEC-linked), Log4Shell-style vulnerabilities
+Threats,Modeling Approach,ThreMA Threat, Vulnerability, Impact, and AttackPattern classes mapped to CIM Equipment and PowerSystemResource
+Abbreviations,CIM,Common Information Model (IEC 61970/61968)
+Abbreviations,ThreMA,Threat Management Ontology
+Abbreviations,SAREF,Smart Applications Reference Ontology
+Abbreviations,SARGON,SmArt eneRGY dOmain oNtology
+Abbreviations,PMU,Phasor Measurement Unit
+Abbreviations,SCADA,Supervisory Control and Data Acquisition
+Abbreviations,IED,Intelligent Electronic Device
+Abbreviations,OWL,Web Ontology Language
+Key_Terms,Graph Advantage,Handles complex relationships and traversals across power and cyber domains better than relational models
+Key_Terms,Core Algorithm,Reinforcement Learning (Q-Learning) + Ontology-Driven Feature Engineering for adaptive response
+Key_Terms,Cyber Intelligence Goal,Real-time anomaly detection and optimized security response in cyber-physical Smart-Grid environments using unified semantic knowledge base
