@@ -1,6 +1,6 @@
 # Master's Thesis: Data Modeling in a Cross-domain Ontology for Cyber Intelligence in Smart-Grids Using Reinforcement Learning
 
-The work presents a novel methodology for integrating power systems and cybersecurity domains using ontological frameworks, with a focus on the Common Information Model (CIM) and the ThreMA cybersecurity framework.
+The work presents a methodology for integrating power systems and cybersecurity domains using ontological frameworks, with a focus on the Common Information Model (CIM) and the ThreMA cybersecurity framework.
 
 ## Thesis Overview
 
