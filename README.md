@@ -255,9 +255,9 @@ This repository and the associated thesis are shared under the **MIT License** t
 
 ## 🔗 Connect with Me
 
-- **Portfolio** → [vincenzo-grimaldi-portfolio.vercel.app](https://vincenzo-grimaldi-portfolio.vercel.app)  
-- **GitHub** → [github.com/iceccarelli](https://github.com/iceccarelli)  
-- **LinkedIn** → [linkedin.com/in/vincenzo-grimaldi](https://linkedin.com/in/vincenzo-grimaldi) *(update if different)*  
+- **Portfolio** → [My Portfolio](https://vincenzo-grimaldi-portfolio.vercel.app)  
+- **GitHub** → [Grimaldi Engineering](https://github.com/iceccarelli)  
+- **LinkedIn** → [Vincenzo Grimaldi](https://www.linkedin.com/in/vincenzo-ceccarelli-grimaldi-2912b42a0/)
 
 ---
 
